@@ -1,0 +1,266 @@
+    1  sudo apt install nodejs
+    2  cd src
+    3  node password_Checker.js 
+    4  node password_Checker.js
+    5  cd src
+    6  node password_Checker.js 
+    7  git status
+    8  git branch
+    9  git status
+   10  git add .
+   11  git commit -m "updated"
+   12  git branch
+   13  git push -u originmaster milkshake-flavours
+   14  git checkout -b milkshake-flavours
+   15  git checkout -b milkshakeflavours
+   16  git status
+   17  git add milkshakes.md
+   18  git commit -m "added initial flavours"
+   19  git push -u origin master milkshakeflavours
+   20  git branch
+   21  git push -u origin master milkshakeflavours
+   22  git push
+   23  git push milkshakeflavours
+   24  git push --set-upstream milkshakeflavours milkshakeflavours
+   25  git push --set-upstream milkshakeflavours
+   26  git push --set-upstream
+   27  git push --set-upstream milkshakeflavours
+   28  cd ..
+   29  cd Nkosinathi-Siyeni-219-level-1-programming-katas-/
+   30  node isosceles.js 
+   31  git branch
+   32  git add .
+   33  git status
+   34  git commit -m "fixed file naming"
+   35  git push -u origin master level1ProgrammingKatas
+   36  cd ..
+   37  cd Nkosinathi-Siyeni-282-node-sql-assignment/
+   38  cd src
+   39  touch form.html
+   40  cd ..
+   41  cd Linux/
+   42  cd git-basic-exercises/
+   43  git log
+   44  git checkout -b history
+   45  history > history.txt
+   46  git log
+   47  git branch
+   48  git status
+   49  git add .
+   50  git commit -m "random readme changes"
+   51  git push -u origin master history
+   52  git push -u origin master 
+   53  git push
+   54  git checout
+   55  git checkout
+   56  git branch
+   57  cat README.md
+   58  rm README.md
+   59  echo "booya" > README.md
+   60  git add .
+   61  git commit -m "rewrote readme"
+   62  git checkout master
+   63  ls
+   64  git log
+   65  git checkout milkshake-flavours
+   66  git add .
+   67  git commit -m "added output"
+   68  git checkout milkshake-flavours
+   69  ls
+   70  git checkout history
+   71  git add .
+   72  git commit -m "added what i see"
+   73  git checkout history
+   74  git log
+   75  git checkout master
+   76  git add .
+   77  git commit -m "addeded answers"
+   78  git checkout master
+   79  git merge milkshake-flavours
+   80  git status
+   81  git add .
+   82  git commit -m 'modified"
+   83  git commit -m "modified"
+   84  git merge milkshake-flavours
+   85  ls
+   86  git log
+   87  git checkout history
+   88  git add .
+   89  git commit -m "modified"
+   90  git checkout history
+   91  git log
+   92  git checkout milkshake-flavours
+   93  git log
+   94  git checkout Y
+   95  git merge X
+   96  git merge history
+   97  git add .
+   98  git commit "fixed"
+   99  git log
+  100  git clone https://github.com/Umuzi-org/tech-department
+  101  git branch
+  102  git branch -a
+  103  git checkout -b project/git-basic-exercises
+  104  git remote -v
+  105  git log
+  106  mkdir this-will-be-another-repo
+  107  LS
+  108  ls
+  109  cd this-will-be-another-repo/
+  110  git init
+  111  touch README.md
+  112  git add .
+  113  git commit "staged & commit"
+  114  git commit -m "staged & commit"
+  115  cd ..
+  116  git log
+  117  touch ignore-me.db
+  118  ls
+  119  git status
+  120  nano .gitignore
+  121  git status
+  122  add .
+  123  git add .
+  124  git commit -m "done"
+  125  mkdir large-directory-that-should-be-local-only
+  126  cd large-directory-that-should-be-local-only/
+  127  git status
+  128  nano .gitignore
+  129  git status
+  130  git add .
+  131  git commit "updated"
+  132  cd ..
+  133  git add .
+  134  git commit "updated"
+  135  git commit -m "updated"
+  136  git push -u origin gitBasics
+  137  git push -u origi master gitBasics
+  138  git push -u origin master gitBasics
+  139  git add *
+  140  git commit -m "my commit" 
+  141  git add *
+  142  git commit -m "my commit" 
+  143  git show-ref
+  144  git push --set-upstream origin gitBasics
+  145  git push --set-upstream origin history
+  146  git remote
+  147  git remote -v
+  148  git push --set-upstream origin master
+  149  git remote add origin https://github.com/kavinraju/Repo-Name.git
+  150  git remote add origin https://github.com/Umuzi-org/Nkosinathi-Siyeni-288-git-basic-exercises-.git
+  151  git push -u origin master
+  152  git push origin master –f
+  153  git branch
+  154  git remote add origin https://github.com/Umuzi-org/Nkosinathi-Siyeni-288-git-basic-exercises-/tree/gitBasics
+  155  git push
+  156  git push --set-upstream origin project/git-basic-exercises
+  157  clear
+  158  cd src
+  159  node password_Checker.js 
+  160  cd ..
+  161  cd spec
+  162  jasmine passwordCheckerSpec.js 
+  163  sudo apt install jasmine
+  164  npm install -g jasmine
+  165  jasmine -v
+  166  cd Nkosinathi-Siyeni-219-level-1-programming-katas-/
+  167  node isosceles.js 
+  168  git status
+  169  git branch
+  170  git add .
+  171  git commit -m "fixed isosceles"
+  172  git push -u origin master level1ProgrammingKatas
+  173  cd Nkosinathi-Siyeni-219-level-1-programming-katas-/
+  174  touch evenOrOdd.js
+  175  touch frameSomeText.js
+  176  touch rightHandedTriangle.js
+  177  git status
+  178  git add .
+  179  git commit -m "added new files"
+  180  git branch
+  181  git push -u origin master level1ProgrammingKatas
+  182  add-apt-repository
+  183  cd Desktop/
+  184  add-apt-repository
+  185  node -v
+  186  cd visitor/
+  187  docker-compose up
+  188  sudo apt install docker-compose
+  189  cd Desktop/
+  190  mkdir visitor
+  191  cd visitor/
+  192  touch visitor.html
+  193  touch style.css
+  194  clear
+  195  sudo apt install obs-studio
+  196  sudo apt install nvidia-driver-390
+  197  lspci -knn | grep VGA -A3
+  198  sudo lshw -C video
+  199  ubuntu-drivers devices
+  200  lspci | grep VGA
+  201  sudo apt-get install mesa-utils
+  202  sudo lspci -vvv -d 10de:0640
+  203  glxinfo | grep OpenGL
+  204  sudo add-apt-repository ppa:kisak/kisak-mesa
+  205  sudo apt-get dist-upgrade
+  206  sudo apt-get install terminator
+  207  cd Desktop/
+  208  ls
+  209  cd ..
+  210  cd Desktop/
+  211  ls
+  212  cd visitor/
+  213  ls
+  214  cd Documents/
+  215  cd ..
+  216  code .
+  217  sudo apt-get install vlc
+  218  cd ..
+  219  mkdir gitBasicExercises
+  220  cd gitBasicExercises/
+  221  git init
+  222  ls -a
+  223  git status
+  224  touch README.md
+  225  ls -a
+  226  git status
+  227  git log
+  228  git add
+  229  git add .
+  230  git status
+  231  git commit -m "initial commit"
+  232  git log
+  233  git branch -M main
+  234  git remote add origin https://github.com/Nkosi97/gitBasicExercises.git
+  235  git push -u origin main
+  236  nano README.md
+  237  cat README.md
+  238  git stats
+  239  git status
+  240  git add .
+  241  git commit -m "second commit"
+  242  git add .
+  243  git commit -m "third commit"
+  244  git push
+  245  git log
+  246  git checkout
+  247  git checkout 3497117b794cd1955fce00319f419b80eb042a1e
+  248  cat README.md
+  249  git checkout master
+  250  git checkout main
+  251  cat README.md
+  252  git branch
+  253  git checkout -b milkshake-flavours
+  254  git branch
+  255  nano milkshakes.md
+  256  git status
+  257  git add .
+  258  git commit -m "added initial flavours"
+  259  git push
+  260  git push --set-upstream origin milkshake-flavours
+  261  git log
+  262  git checkout main
+  263  git log
+  264  git checkout -b history
+  265  git branch
+  266  history > history.txt
